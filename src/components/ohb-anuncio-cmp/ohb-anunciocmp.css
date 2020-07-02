@@ -1,0 +1,43 @@
+:host {
+  display: block;
+}
+
+
+.comentariolinha{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+  #interna {
+  width: 200px; /* Valor da Largura do elemento */
+  }
+
+.comentariocaixa{
+  text-align: justify;
+  width: 40%; /* Valor da Largura */
+  }
+
+.titulo{
+  font-size: 32px;
+  color: #000;
+  font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;  
+}
+
+.comentario{
+  font-size: 15px;
+    line-height: 1em;
+    color: #000;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;  
+
+}
+
+.assinatura{
+  font-size: 15px;
+    line-height: 1em;
+    color: #000;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;  
+
+}
+

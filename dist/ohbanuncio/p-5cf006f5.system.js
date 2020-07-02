@@ -1,0 +1,1 @@
+System.register(["./p-f83b2b52.system.js"],(function(){"use strict";var t,n;return{setters:[function(r){t=r.p;n=r.b}],execute:function(){t().then((function(t){return n([["p-2bfcd7c8.system",[[1,"ohb-anunciocmp",{Titulo:[1,"titulo"],Comentario:[1,"comentario"],Horario:[1,"horario"],Assinatura:[1,"assinatura"]}]]]],t)}))}}}));

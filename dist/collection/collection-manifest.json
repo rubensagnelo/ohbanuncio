@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "./components/ohb-anuncio-cmp/ohb-anunciocmp.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.12.2",
+    "typescriptVersion": "3.8.3"
+  },
+  "collections": [],
+  "bundles": []
+}
